@@ -1,0 +1,15 @@
+D:\My-Projects\Shop\LampShade\ShopManegement.Application.Contract\bin\Debug\net5.0\ShopManegement.Application.Contract.deps.json
+D:\My-Projects\Shop\LampShade\ShopManegement.Application.Contract\bin\Debug\net5.0\ShopManegement.Application.Contract.dll
+D:\My-Projects\Shop\LampShade\ShopManegement.Application.Contract\bin\Debug\net5.0\ShopManegement.Application.Contract.pdb
+D:\My-Projects\Shop\LampShade\ShopManegement.Application.Contract\bin\Debug\net5.0\0_Framework.dll
+D:\My-Projects\Shop\LampShade\ShopManegement.Application.Contract\bin\Debug\net5.0\0_Framework.pdb
+D:\My-Projects\Shop\LampShade\ShopManegement.Application.Contract\obj\Debug\net5.0\ShopManegement.Application.Contract.csproj.AssemblyReference.cache
+D:\My-Projects\Shop\LampShade\ShopManegement.Application.Contract\obj\Debug\net5.0\ShopManegement.Application.Contract.GeneratedMSBuildEditorConfig.editorconfig
+D:\My-Projects\Shop\LampShade\ShopManegement.Application.Contract\obj\Debug\net5.0\ShopManegement.Application.Contract.AssemblyInfoInputs.cache
+D:\My-Projects\Shop\LampShade\ShopManegement.Application.Contract\obj\Debug\net5.0\ShopManegement.Application.Contract.AssemblyInfo.cs
+D:\My-Projects\Shop\LampShade\ShopManegement.Application.Contract\obj\Debug\net5.0\ShopManegement.Application.Contract.csproj.CoreCompileInputs.cache
+D:\My-Projects\Shop\LampShade\ShopManegement.Application.Contract\obj\Debug\net5.0\ShopMane.35A73FA3.Up2Date
+D:\My-Projects\Shop\LampShade\ShopManegement.Application.Contract\obj\Debug\net5.0\ShopManegement.Application.Contract.dll
+D:\My-Projects\Shop\LampShade\ShopManegement.Application.Contract\obj\Debug\net5.0\refint\ShopManegement.Application.Contract.dll
+D:\My-Projects\Shop\LampShade\ShopManegement.Application.Contract\obj\Debug\net5.0\ShopManegement.Application.Contract.pdb
+D:\My-Projects\Shop\LampShade\ShopManegement.Application.Contract\obj\Debug\net5.0\ref\ShopManegement.Application.Contract.dll
